@@ -2,6 +2,5 @@
 <hr>
 I developed some projects using HTML and CSS
 
-  <ul>
-    <li>Project 1 - Tribute Website</li>
-  </ul>
+
+ - Project 1 - Tribute Website
